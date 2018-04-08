@@ -9,7 +9,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "you <your@email.com>",
-  "license": "BSD-3-Clause",
+  "license": "Unlicense",
   "devDependencies": {
     "elm": "^0.18.0"
   }
